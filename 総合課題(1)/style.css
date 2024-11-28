@@ -35,7 +35,7 @@ main{
     grid-template-columns: repeat(3, 1fr); /* 3つの列に分割 */
 }
 section{
-    background-image: url('./material/washi.png');
+    background-image: url('.\material\washi.png');
 }
 .text {
     position: absolute;
